@@ -1,0 +1,12 @@
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/bin/Debug/net6.0/RabbitMq.Contract.deps.json
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/bin/Debug/net6.0/RabbitMq.Contract.dll
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/bin/Debug/net6.0/RabbitMq.Contract.pdb
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/RabbitMq.Contract.csproj.AssemblyReference.cache
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/RabbitMq.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/RabbitMq.Contract.AssemblyInfoInputs.cache
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/RabbitMq.Contract.AssemblyInfo.cs
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/RabbitMq.Contract.csproj.CoreCompileInputs.cache
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/RabbitMq.Contract.dll
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/refint/RabbitMq.Contract.dll
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/RabbitMq.Contract.pdb
+/Users/Syar/Codes/DotNet-Microsrvices/src/RabbitMq.Contract/obj/Debug/net6.0/ref/RabbitMq.Contract.dll

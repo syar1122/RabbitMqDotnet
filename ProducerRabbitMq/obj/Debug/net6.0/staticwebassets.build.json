@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jYvmxKaVtmHGr1BZcp2rO6HoYSXRmeMS/2UG3JqGMI8=",
+  "Source": "ProducerRabbitMq",
+  "BasePath": "_content/ProducerRabbitMq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
